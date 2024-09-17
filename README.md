@@ -1,2 +1,2 @@
 # saurabh-singh-2401
-This is Data Science and Machine Learning Repository where i can build and place my code
+This repository showcases projects focused on AI, Generative AI, and Machine Learning, featuring model development, data analysis, and innovative solutions to real-world problems.
